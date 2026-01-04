@@ -60,3 +60,4 @@ https://github.com/In3x0rabl3/OSEP
 
 https://github.com/0xVavaldi/OSEP-CyberChef-Recipes
 
+https://github.com/Anon-Exploiter/sliver-cheatsheet
